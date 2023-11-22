@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+}
+
+h1{
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 200px;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    left: 0%;
+    top: 200px;
+}
+
+.button {
+        width: 100px;
+        height: 100px;
+        border: solid black 3px;
+        display: inline-block;
+        padding: 25px;
+        position: relative;
+        left: 28%;
+        top: 200px;     
+}
+
+#Grey{
+    background-color: grey;
+}
+
+#Yellow{
+    background-color: yellow;
+}
+
+#Green{
+    background-color: green;
+}
+
+#Orange{
+    background-color: orange;
+}
