@@ -1,1 +1,1 @@
-A variety of projects based on #Javascript
+Projects based on #Javascript
